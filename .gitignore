@@ -1,0 +1,19 @@
+# Environment
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+
+# Sessions / credentials (NEVER commit)
+.rpow-bot/
+.carte-bot/
+*.json
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
